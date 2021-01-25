@@ -1,2 +1,3 @@
-# glass_website
-glass web site realy looking like a future website  built with love idea by @developedbyed
+#super beautiful glass website
+### SCREEN SHOT
+<img src="Screenshot 2021-01-25 192822.jpg">
